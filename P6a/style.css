@@ -1,0 +1,65 @@
+body {
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.lista-ordenada ol {
+    text-align: center;
+    width: 10%;
+    margin: auto;
+    font-weight: 600;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li:last-of-type {
+    margin-bottom: 0;
+}
+
+.leyenda {
+    margin-top: 50px;
+    border: 1px solid #e1e1e1;
+    padding: 20px;
+    margin-right: 800px;
+}
+
+p {
+    font-size: 15px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.font-weight {
+    font-weight: 700;
+}
+
+.azul {
+    color: blue;
+}
+
+.naranja {
+    color: orange;
+}
+
+.verde {
+    color: green;
+}
+
+.rojo {
+    color: red;
+}
