@@ -1,0 +1,46 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 50px;
+}
+
+.lista-de-peliculas {
+    margin-top: 50px;
+}
+
+.lista-de-peliculas ul {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.lista-de-peliculas ol {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+li {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.mis-peliculas-favoritas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.pelicula {
+    padding-top: 80px;
+}
